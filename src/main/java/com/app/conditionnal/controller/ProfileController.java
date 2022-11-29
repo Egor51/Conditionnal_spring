@@ -19,7 +19,4 @@ public class ProfileController {
     public String getProfile() {
         return profile.getProfile();
     }
-
-    @Value("${netology.profile.dev:false}")
-    boolean value;
 }
