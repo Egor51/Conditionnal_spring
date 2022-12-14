@@ -23,4 +23,5 @@ public class JavaConfig {
         return new ProductionProfile();
     }
 
+
 }

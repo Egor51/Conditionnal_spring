@@ -1,0 +1,13 @@
+GET http://localhost:8080/profile
+Accept: application/json
+
+###
+
+POST http://localhost:8080/prof
+Content-Type: application/json
+
+{
+"name": "Ivan",
+"age": 300
+}
+###
